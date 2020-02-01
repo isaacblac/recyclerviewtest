@@ -1,0 +1,51 @@
+[{
+ "name": "John Doe",
+ "phone": "0812284661",
+ "email": "jd@example.com"
+},
+{
+ "name": "Adam Williams",
+ "phone": "08009784661",
+ "email": "aw@example.com"
+},
+{
+ "name": "Mark Doe",
+ "phone": "08122885321",
+ "email": "md@example.com"
+},
+{
+ "name": "Fidelis Eke",
+ "phone": "08122848912",
+ "email": "fe@example.com"
+},
+{
+ "name": "james Brown",
+ "phone": "0912723661",
+ "email": "jb@example.com"
+},
+{
+ "name": "Oti Isaac",
+ "phone": "08167712901",
+ "email": "oi@example.com"
+},
+{
+ "name": "Judith Ezuma",
+ "phone": "0812099223",
+ "email": "je@example.com"
+},
+{
+ "name": "Ballack Obama",
+ "phone": "0812289000",
+ "email": "bo@example.com"
+},
+{
+ "name": "Bill Gate",
+ "phone": "0812212232",
+ "email": "bg@example.com"
+},
+{
+ "name": "Julius Lingard",
+ "phone": "08122856653",
+ "email": "jl@example.com"
+}
+]
